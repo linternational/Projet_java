@@ -1,0 +1,16 @@
+Gestion d'Appareils Électroniques
+Ce projet permet de gérer un parc d'appareils électroniques, comme des ordinateurs. Il inclut des fonctionnalités pour ajouter des appareils, les décorer avec des options et afficher un inventaire.
+
+Fonctionnalités
+Ajout d'appareils : Vous pouvez ajouter différents types d'ordinateurs à l'inventaire.
+Options personnalisées : Ajoutez des options comme la sécurité ou la performance aux appareils.
+Éviter les doublons : Les appareils ne peuvent pas être ajoutés plusieurs fois avec le même identifiant.
+Affichage de l'inventaire : Consultez la liste de tous les appareils disponibles avec leurs détails et prix.
+Comment Utiliser
+Créer des Appareils : Utilisez la méthode createAppareil pour créer des ordinateurs avec un nom, un prix et un identifiant.
+Ajouter à l'Inventaire : Ajoutez les appareils créés à l'inventaire.
+Appliquer des Options : Utilisez des décorateurs pour ajouter des options aux appareils.
+Lister les Appareils : Affichez la liste complète des appareils dans l'inventaire.
+
+Installation
+Clonez le dépôt et importez-le dans votre IDE Java. Assurez-vous d'avoir Java installé sur votre machine.
